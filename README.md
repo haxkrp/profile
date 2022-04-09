@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<!-- - 🤔 I’m looking for help with ... -->
+- 🤔 I’m looking for help with ...
 -->
 - 🌱 I’m currently learning DevOps.
 - 🔭 I’m currently working on Cloud Native projects.
