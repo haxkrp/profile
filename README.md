@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 -->
-- 🌱 I’m currently learning DevOps.
+- 🌱 I’m currently learning DevOps practices.
 - 🔭 I’m currently working on Cloud Native projects.
-- 👯 I’m looking to collaborate on Debian & Openstack projects
+- 👯 I’m looking to collaborate on Debian & Openstack projects.
 - 💬 Ask me about Cloud computing & Operating Systems.
 - 📫 How to reach me: Reach me through any of the links on my website.
 
