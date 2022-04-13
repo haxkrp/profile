@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cloud computing & Operating Systems.
 - 📫 How to reach me: Reach me through any of the links on my website.
 
-- ⚡ Fun fact: I'm also a Research analyst.
+<!-- - ⚡ Fun fact: -->
