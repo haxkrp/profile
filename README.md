@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps practices.
 - 🔭 I’m currently working on Cloud Native projects.
 - 👯 I’m looking to collaborate on Debian & Openstack projects.
-- 💬 Ask me about Cloud computing & Operating Systems.
-- 📫 How to reach me: Reach me through any of the links on my website.
-
+- 💬 Ask me about Cloud computing & Operating systems.
+- 📫 How to reach me: https://www.linkedin.com/in/peter-ajiboye 
 <!-- - ⚡ Fun fact: -->
